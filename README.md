@@ -14,7 +14,7 @@ This section will provide an introduction to anime dataset which is a dataset fo
 The dataset i used are available in kaggle and is derived from MAL . 
 
 # Recommendatin System
-1) Content Based Recommendation System
+1)** Content Based Recommendation System **
 In the content-based recommender system, we will only consider the synopsis and metadata of the anime. This recommendation will return the most similar items based of the input anime we gave.
 
 Advantages :
@@ -24,7 +24,7 @@ Disadvantages :
 Result may not be satisfying as it's difficult to rate a complex item by its metadata only.
 Tend to return on similar items such as the sequel or the 2nd season of that anime.
 
-2) Rating Based Recommendation System
+2)** Rating Based Recommendation System **
 In the Rating Based recommender system, we will only consider the rating given by user to give recommendation. This recommendation will return preferred anime by previous users who rated highly on the input anime.
 
 Advantages :
