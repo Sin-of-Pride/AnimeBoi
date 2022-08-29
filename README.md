@@ -20,6 +20,7 @@ In the content-based recommender system, we will only consider the synopsis and 
 
 Advantages :
 Can overcome 'cold start' problem when we're using the collaborative filtering where new item that didn't have enough rating will not be recommended.
+
 Disadvantages :
 Result may not be satisfying as it's difficult to rate a complex item by its metadata only.
 Tend to return on similar items such as the sequel or the 2nd season of that anime.
@@ -30,6 +31,7 @@ In the Rating Based recommender system, we will only consider the rating given b
 
 Advantages :
 Result are often better than content-based, because it can give recommendation without the machine analyzing complex object such as anime from its metadata.
+
 Disadvantages :
 Will face 'cold start' problem when new item that didn't have enough rating will not be recommended.
 Requires big amount of rating data before it can generate satisfying result.
