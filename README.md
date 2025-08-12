@@ -1,14 +1,9 @@
 <!-- Banner Section -->
 <p align="center">
-  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF">
+  <img height="100" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF" style="vertical-align:middle;">
+  <span style="margin-left:16px; vertical-align:middle;"><b>🔄 Refresh this page for a different anime GIF!</b></span>
 </p>
 
-<p align="center">
-  <b>👀 Want a new anime GIF?</b><br>
-  <span style="display:inline-block; padding:8px 16px; border-radius:4px; background:#282c34; color:#00fff9; font-weight:bold; margin-top:10px;">
-    🔄 Refresh this page for another surprise!
-  </span>
-</p>
 
 
 
