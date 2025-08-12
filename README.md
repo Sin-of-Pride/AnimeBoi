@@ -1,55 +1,51 @@
-<h1 align="center">✨ AnimeBoi ✨</h1>
+<!-- Banner Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Theme-Anime%20Adventure-ff69b4?style=for-the-badge" />
-  <img src="https://img.shields.io/github/license/Sin-of-Pride/AnimeBoi?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/Sin-of-Pride/AnimeBoi?style=for-the-badge&color=yellow" />
+  <img src="https://i.imgur.com/wXxk3hD.gif" width="500" alt="AnimeBoi Logo">
 </p>
 
+<h1 align="center">✨ AnimeBoi ✨</h1>
 <p align="center">
-  <em>Your friendly anime recommendation companion — because picking the next anime shouldn't feel like filler episodes.</em>
+  <b>AI-Powered Anime Recommendation Chatbot — Your Personal Senpai for Anime Choices 🎌</b>
 </p>
 
 ---
 
 ## 🌸 Overview
 
-**AnimeBoi** is an AI-powered chatbot that recommends anime tailored just for you.  
-It’s like having your own **anime senpai** who knows your tastes and can introduce you to your next binge-worthy adventure.
+**AnimeBoi** is a next-gen **AI chatbot** that recommends anime tailored just for you.  
+Think of it as your best **otaku friend** who:
+- Knows your tastes
+- Avoids your dislikes
+- Finds your next binge-worthy adventure ❤️
 
-With a mix of **content-based** and **rating-based** recommendation systems, AnimeBoi can help you:
-- Discover hidden gems 🎯
-- Avoid the dreaded "What should I watch next?" crisis 😩
-- Get accurate suggestions with genre, ratings, and reviews 🏆
+Powered by both **Content-Based** and **Collaborative Filtering** systems, AnimeBoi makes sure you never suffer from the dreaded _“What should I watch next?”_ crisis again 😩.
 
 ---
 
-## 🗾 Why AnimeBoi Exists
+## 🎨 Theme & Vibes
+> Dark + Neon aesthetic inspired by Tokyo streets at night 🌃  
+> AnimeBoi’s design reflects fast, colorful, and exciting anime nights.
 
-Anime isn’t just art — it’s a journey.  
-From Tokyo alleyways filled with neon lights 🌃 to floating castles in magical worlds ✨,  
-AnimeBoi helps you explore this vast multiverse without endless scrolling.
+![Neon Theme](https://i.imgur.com/Te5cYtD.gif)
 
 ---
 
 ## ⚙️ Features
-
-🔮 **Dual Recommendation System**  
-- **Content-Based**: Matches anime based on synopsis & metadata.  
-- **Rating-Based**: Suggests based on community ratings and similar user preferences.  
-
-📊 **Rich Anime Data** – Uses a dataset sourced from **MyAnimeList** (MAL).  
-🛠 **Under-Development Chatbot Mode** – Talk to AnimeBoi like a real otaku friend.  
-⚡ **Fast** – Get recommendations in under a minute.  
+- 🎯 **Dual Recommendation System** — Content-based & Rating-based models
+- 📊 **Rich Anime Data** — Sourced from **MyAnimeList (MAL)** datasets
+- 💬 **Under-Development Chatbot Mode** — Talk to AnimeBoi like a real otaku friend
+- ⚡ **Fast** — Get recommendations in under a minute
+- 🎭 **Genre-filtered** suggestions — Shounen, Shoujo, Mystery, Fantasy, and more
 
 ---
 
-## 🗂 Dataset
-
+## 📂 Dataset
 - **Source**: Kaggle’s MAL-based dataset  
 - **Fields**: Title, Year, Episodes, Rating, Synopsis, etc.  
-- **Usage**: For both **content** and **rating-based** recommendations.
+- **Usage**: Powers both content & rating-based recommendations
 
 ---
 
-## 🚀 Installation
+## 🚀 Getting Started
 
+### 1️⃣ Clone the Repository
