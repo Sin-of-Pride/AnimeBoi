@@ -3,6 +3,14 @@
   <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF">
 </p>
 
+<p align="center">
+  <b>👀 Want a new anime GIF?</b><br>
+  <span style="display:inline-block; padding:8px 16px; border-radius:4px; background:#282c34; color:#00fff9; font-weight:bold; margin-top:10px;">
+    🔄 Refresh this page for another surprise!
+  </span>
+</p>
+
+
 
 <h1 align="center">✨ AnimeBoi ✨</h1>
 <p align="center">
