@@ -1,7 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="https://i.imgur.com/wXxk3hD.gif" width="500" alt="AnimeBoi Logo">
+  <img height="200" src="https://github-readme-utils.vercel.app/api/gif/anime" alt="Random anime GIF">
 </p>
+
 
 <h1 align="center">✨ AnimeBoi ✨</h1>
 <p align="center">
